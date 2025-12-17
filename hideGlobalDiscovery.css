@@ -1,13 +1,3 @@
-/**
-* @name hideDiscovery
-* @author krystalskullofficial, dav154
-* @description Hides the new pinned Discovery Icon.
-* @version 5.5.2
-* @authorId 929208515883569182
-* @website https://krstlskll69.github.io/
-* @source https://github.com/KrstlSkll69/vc-snippets#9th-hidepindiscovery--hides-the-new-pinned-discovery-icon
-*/
-
 ._650eb104245d257b-tutorialContainer + ._650eb104245d257b-listItem {display: none;}
 
 /*-- for backwards compatibility since people still use the old one ---*/
